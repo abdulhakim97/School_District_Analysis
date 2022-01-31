@@ -6,9 +6,9 @@
 # Results:
 ## How is the district summary affected?
 <img width="954" alt="Screen Shot 2022-01-30 at 10 35 52 PM" src="https://user-images.githubusercontent.com/96555487/151739499-71304593-8dae-4240-8f7c-5d0f4d681228.png">
-The first district summary(the one above) had an overall higher percentage of passing, including reading and math percentage.
+The orginal district summary(the one above) had a slightly higher percentage of passing, including reading and math percentage.
 <img width="971" alt="Screen Shot 2022-01-30 at 10 37 40 PM" src="https://user-images.githubusercontent.com/96555487/151739605-6c867696-4c3b-4dc2-8a00-7dd455c4c300.png">
-Where as the updated version has a slightly lower percentage of passing because of the updated "nan" on the 9th grades in THS.
+Where as the updated version has a slightly lower percentage of passing but overall looks completly the same as before.
 
 ## How is the school summary affected?
 <img width="270" alt="Screen Shot 2022-01-30 at 10 42 50 PM" src="https://user-images.githubusercontent.com/96555487/151740059-6816d56d-feca-4826-928a-4fa453ff0593.png">
